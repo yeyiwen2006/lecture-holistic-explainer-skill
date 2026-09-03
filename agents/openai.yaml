@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lecture Holistic Explainer"
+  short_description: "Explain any course deck as a holistic Chinese lesson."
+  default_prompt: "Use $lecture-holistic-explainer to explain this course deck in Chinese as a self-contained holistic lesson, preserving specialist depth and page references for every covered item."

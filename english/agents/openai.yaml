@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lecture Holistic Explainer — English"
+  short_description: "Explain any course deck as a holistic English lesson."
+  default_prompt: "Use $lecture-holistic-explainer-en to explain this course deck in English as a self-contained holistic lesson, preserving specialist depth and page references for every covered item."
