@@ -115,5 +115,10 @@ english/SKILL.md                英文版 Skill 主体
 english/agents/openai.yaml      英文版展示信息和默认提示
 README.md                       默认显示的中文版项目说明
 README_EN.md                    英文版项目说明
+LICENSE                         MIT 许可证
 .gitignore                      常规本地文件忽略规则
 ```
+
+## 许可证
+
+本项目采用 [MIT License](./LICENSE)，版权所有 © 2026 Yiwen Ye（GitHub：[@yeyiwen2006](https://github.com/yeyiwen2006)）。

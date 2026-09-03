@@ -115,5 +115,10 @@ english/SKILL.md                English Skill definition
 english/agents/openai.yaml      English interface metadata and default prompt
 README.md                       Default Chinese project documentation
 README_EN.md                    English project documentation
+LICENSE                         MIT License
 .gitignore                      Common local-file exclusions
 ```
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE). Copyright © 2026 Yiwen Ye (GitHub: [@yeyiwen2006](https://github.com/yeyiwen2006)).
